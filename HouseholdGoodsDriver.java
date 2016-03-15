@@ -1,9 +1,3 @@
-// ------------------------------------------------------- 
-// Assignment 1
-// Written by: Francesco Valela 26669883
-// For COMP 249 Section S – Winter 2016
-// --------------------------------------------------------
-
 import java.util.Scanner;
 
 public class HouseholdGoodsDriver {
