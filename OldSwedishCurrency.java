@@ -1,9 +1,3 @@
-// ------------------------------------------------------- 
-// Assignment 1
-// Written by: Francesco Valela 26669883
-// For COMP 249 Section S – Winter 2016
-// --------------------------------------------------------
-
 /**
  * This class implements an old Swedish currency and allows it to be normalized.
  * @author Francesco Valela
